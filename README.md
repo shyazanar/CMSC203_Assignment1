@@ -1,4 +1,4 @@
-# CMSC203_Assignment1
+# CMSC203 Assignment1
 
 ## Wi-Fi Diagnosis
 
@@ -10,11 +10,16 @@ Build an application that will step through some possible problems to restore in
 
 ## Concepts tested by this assignment
 
-•	A driver and a utility class 
-•	UML class diagram or pseudo-code
-•	Java fundamentals, including decision structures 
-•	Java objects & classes 
-•	Following a flow-chart
-•	Command-line processing
++ A driver and a utility class 
+
++ UML class diagram or pseudo-code
+
++ Java fundamentals, including decision structures 
+
++ Java objects & classes 
+
++ Following a flow-chart
+
++ Command-line processing
 
 
